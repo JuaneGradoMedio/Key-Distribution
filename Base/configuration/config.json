@@ -1,0 +1,15 @@
+{
+    "authorization_file": "device_auths.json",
+    "discord_token": ".X7q7qQ.viO4UYMaSSA3-ykYSuG3y6DqcpI",
+    "discord_prefix": "!",
+    "discord_description": "fsc-web.es",
+
+    "discord_startup_extensions": [
+        "verification",
+        "commands",
+        "developer"
+    ],
+    "fortnite_startup_extensions": [
+        "verification"
+    ]
+}

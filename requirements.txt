@@ -1,0 +1,4 @@
+discord.py == 1.7.3
+crayons == 0.4.0
+discord-py-interactions == 3.0.2
+fortnitepy == 3.6.4
